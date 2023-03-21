@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Ben10AliensApp.Shared.Models
 {
-    internal class Aliens
+    public class Aliens
     {
+
     }
 }
