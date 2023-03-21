@@ -8,6 +8,12 @@ namespace Ben10AliensApp.Shared.Models
 {
     public class Aliens
     {
+        public int Id { get; set; }
+
+        public string spanishName { get; set; }
+        public string englishName { get; set; }
+        public string species { get; set; }
+        public string homePlanet { get; set; }
 
     }
 }
