@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ben10AliensApp.Shared.Models
 {
-    public class Aliens
+    public class Alien
     {
         public int Id { get; set; }
 
